@@ -1,0 +1,15 @@
+**/Archive
+**/*.suo
+**/*.ncb
+**/*.pch
+**/*.sdf
+**/*.user
+**/*.opensdf
+**/*.aps
+.vs
+x64
+x86
+/G2K/
+/K2G/
+/Utilities/
+/Test/
