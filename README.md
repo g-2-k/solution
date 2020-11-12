@@ -10,3 +10,9 @@ Compressor
 K2G
 ---
 Decompressor
+
+##### Output file Data structure:
+
+- HEADER_MAGIC
+- FILE_SIZE  
+...
